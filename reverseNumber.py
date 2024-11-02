@@ -1,5 +1,6 @@
-# Writting code to reverse a number 
-num = 1234
+# Writting code to reverse a number
+#Modify the code to set a number to reverse
+num = 92536544785868566
 reversed_num = 0
 
 while num != 0:
