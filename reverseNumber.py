@@ -8,5 +8,6 @@ while num != 0:
     digit = num % 10
     reversed_num = reversed_num * 10 + digit
     num //= 10
+#Print the result for the reverted number
 
 print("Reversed Number: " + str(reversed_num))
