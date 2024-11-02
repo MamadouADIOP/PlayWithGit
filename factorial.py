@@ -1,6 +1,6 @@
 # Python code to calculate the factorial of a number 
 
-#Another comment added
+#Another comment added Done In main branch
 def calculate_factorial(number): 
     if number == 0 or number == 1: 
         return 1
