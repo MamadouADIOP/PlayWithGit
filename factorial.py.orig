@@ -1,13 +1,17 @@
+<<<<<<< HEAD
 
 #Another comment done while being in backend branch
 # Python code to calculate the factorial of a number 
 
 #Another comment added in frontend branch
+=======
+#Python code to calculate the factorial of a number 
+>>>>>>> a52a6c2 (Add reverse number file)
 
 #Another comment done while being in backend branch
 #Another comment added Done In main branch
 #Another comment added Done in feature branch
-#Latest comment in frontend branch
+
 def calculate_factorial(number): 
     if number == 0 or number == 1: 
         return 1
